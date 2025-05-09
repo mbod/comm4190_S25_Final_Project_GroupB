@@ -2,8 +2,6 @@
 
 ### LoveSense by Chinomso Anyadiegwu and Emma Gwan-Nulla
 
-![LoveSense Logo](comm4190_S25_Final_Project_GroupBChinoEmma/images/lovesenselogo.png)
-
 ---
 
 # Introduction
@@ -20,13 +18,13 @@ LoveSense combines relationship-oriented chatbot AI with therapeutic coaching co
 
 # User Scenarios
 
-1 - A teenager who isn’t sure whether he/she is ready to date.
+[1](/04_userscenario1.ipynb) - A teenager who isn’t sure whether he/she is ready to date.
 
-2 - A couple having trouble communicating with one another.
+[2](/05_userscenario2.ipynb) - A couple having trouble communicating with one another.
 
-3 - A person receiving outside pressure to end a long-term relationship, is unsure of the best course of action.
+[3](/06_userscenario3.ipynb) - A person receiving outside pressure to end a long-term relationship, is unsure of the best course of action.
 
-4 - A parent trying to figure out how to introduce a new partner to his/her child(ren).
+[4](/07_userscenario4.ipynb) - A parent trying to figure out how to introduce a new partner to his/her child(ren).
 
 ---
 
