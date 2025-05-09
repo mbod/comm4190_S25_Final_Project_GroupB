@@ -1,9 +1,11 @@
 ## COMM4190 (Spring 2025) Final Project
 
 
+
+<img src="images/lovesenselogo.png" width=300/>
+
 ### LoveSense by Chinomso Anyadiegwu and Emma Gwan-Nulla
 
-<img srg="images/lovesenselogo.png" width="300"/>
 
 ---
 
