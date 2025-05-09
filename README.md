@@ -3,15 +3,14 @@
 
 ### LoveSense by Chinomso Anyadiegwu and Emma Gwan-Nulla
 
-![](images/lovesenselogo.png)
+<img srg="images/lovesenselogo.png" width="300"/>
 
 ---
 
 # Introduction
 
 In our accelerated online world, youth commonly demand instant, credible, and relatable guidance in managing the conundrums of romantic relationship issues. Conventional therapy or relationship counseling may come across as inaccessible, intimidating, or out of touch with youthful experiences. LoveSense is a culturally responsive, AI-powered chatbot that provides thoughtful, casual, and contextually informed relationship advice to individuals aged 16 to 40 years. Our AI agent operates in the persona of "Lauren," a warm, down-to-earth, and highly reflective Black woman relationship coach. She talks like a friend and counsels like a therapist while listening like a partner. Whether a person is embarking on a new romance or sorting out complex relationship problems with children or in-laws, LoveSense also provides support through empathetic listening, clarity, and affirming encouragement. 
-<<<<<<< HEAD
-=======
+
 
 ---
 
@@ -38,7 +37,6 @@ LoveSense combines relationship-oriented chatbot AI with therapeutic coaching co
 In recent years, news sites like The New York Times, Yahoo News, and Psychology Today have written pieces about a mental health crisis in our culture. Young people struggle with creating and maintaining healthy romantic relationships. There is recognizable demand for spaces (whether it is TikTok therapy content or Reddit relationship forums) to process casual, low-stakes conversation about relationships and concerns which are not judgmental or pressure filled. Nonetheless, many of the young people still do not have access to relevant, derived and emotively nuanced support. Therapy can be costly and unavailable. Online forums may be disorganized and unmoderated. Even AI chatbots in the relationship space often feel robotic, prescriptive, or detached from real experience.
 
 LoveSense offers a conversational AI coach that feels like a wise friend. It is not only a chatbot but a reflection partner.
->>>>>>> bcbdc5146e5ba7072877758c542eb3472f657a7e
 
 ---
 
