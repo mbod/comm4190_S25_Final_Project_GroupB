@@ -1,6 +1,8 @@
 ## COMM4190 (Spring 2025) Final Project
 
-### Project Group B
+### LoveSense by Chinomso Anyadiegwu and Emma Gwan-Nulla
+
+![LoveSense Logo](comm4190_S25_Final_Project_GroupBChinoEmma/images/lovesenselogo.png)
 
 ---
 
