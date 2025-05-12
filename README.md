@@ -22,7 +22,11 @@ LoveSense combines relationship-oriented chatbot AI with therapeutic coaching co
 
 ---
 
-# User Scenarios
+# Prompting, User Scenarios, and Analyses
+
+[LoveSense Mollick Prompt](/01_lovesensemollickprompt.ipynb) vs. [LoveSense Custom GPT Configuration](/02_lovesensecustomGPTconfiguration.ipynb)
+
+[Evaluation Criteria](/03_evaluationcriteria.ipynb)
 
 [1](/04_userscenario1.ipynb) - A teenager who isn’t sure whether he/she is ready to date.
 
@@ -32,31 +36,7 @@ LoveSense combines relationship-oriented chatbot AI with therapeutic coaching co
 
 [4](/07_userscenario4.ipynb) - A parent trying to figure out how to introduce a new partner to his/her child(ren).
 
----
-
-# Why LoveSense?
-
-In recent years, news sites like The New York Times, Yahoo News, and Psychology Today have written pieces about a mental health crisis in our culture. Young people struggle with creating and maintaining healthy romantic relationships. There is recognizable demand for spaces (whether it is TikTok therapy content or Reddit relationship forums) to process casual, low-stakes conversation about relationships and concerns which are not judgmental or pressure filled. Nonetheless, many of the young people still do not have access to relevant, derived and emotively nuanced support. Therapy can be costly and unavailable. Online forums may be disorganized and unmoderated. Even AI chatbots in the relationship space often feel robotic, prescriptive, or detached from real experience.
-
-LoveSense offers a conversational AI coach that feels like a wise friend. It is not only a chatbot but a reflection partner.
-
----
-
-# Core Concept
-
-LoveSense combines relationship-oriented chatbot AI with therapeutic coaching competencies and practices. LoveSense is designed to be made to feel real and human by providing advice through active listening, tailored feedback and open-ended questions. The users are never told what to do, but instead are encouraged to think, to communicate, and to take responsibility for their decisions. The intended audience is teenage and young adults in their 20s and 30s who are considering new or current romantic relationships of any degree of complexity.
-
----
-
-# User Scenarios
-
-1 - A teenager who isn’t sure whether he/she is ready to date.
-
-2 - A couple having trouble communicating with one another.
-
-3 - A person receiving outside pressure to end a long-term relationship, is unsure of the best course of action.
-
-4 - A parent trying to figure out how to introduce a new partner to his/her child(ren).
+[Analyses](/08_analyses.ipynb)
 
 ---
 
@@ -65,4 +45,3 @@ LoveSense combines relationship-oriented chatbot AI with therapeutic coaching co
 In recent years, news sites like The New York Times, Yahoo News, and Psychology Today have written pieces about a mental health crisis in our culture. Young people struggle with creating and maintaining healthy romantic relationships. There is recognizable demand for spaces (whether it is TikTok therapy content or Reddit relationship forums) to process casual, low-stakes conversation about relationships and concerns which are not judgmental or pressure filled. Nonetheless, many of the young people still do not have access to relevant, derived and emotively nuanced support. Therapy can be costly and unavailable. Online forums may be disorganized and unmoderated. Even AI chatbots in the relationship space often feel robotic, prescriptive, or detached from real experience.
 
 LoveSense offers a conversational AI coach that feels like a wise friend. It is not only a chatbot but a reflection partner.
-
